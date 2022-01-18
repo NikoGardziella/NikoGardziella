@@ -4,4 +4,4 @@
     🌱 I'm currently studying C-programming, full-time, @Hive, Helsinki
     📫 How to reach me: send me an email - gardziella@gmail.com
     
-    [![ngardzie's 42 stats](https://badge42.herokuapp.com/api/stats/ngardzie)](https://github.com/JaeSeoKim/badge42)
+
